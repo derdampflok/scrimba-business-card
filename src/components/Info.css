@@ -1,0 +1,22 @@
+main {
+    margin-top: 6px;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+h2 {
+    color: #F5F5F5;
+    font-weight: 700;
+    font-size: 1rem;
+    line-height: 150%;
+    margin-top: 22px;
+    margin-bottom: 5px;
+}
+
+p {
+    color: #DCDCDC;
+    font-weight: 400;
+    font-size: 0.7rem;
+    line-height: 150%;
+    margin: 0;
+}

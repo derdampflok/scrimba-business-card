@@ -1,0 +1,14 @@
+.page {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.content {
+    margin-top: 44px;
+    background-color: #1A1B21;
+    width: 317px;
+    height: 780px;
+    display: flex;
+    flex-direction: column;
+}

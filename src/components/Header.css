@@ -1,0 +1,43 @@
+header {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+.profile-picture {
+    width: 317px;
+}
+
+.name-headline {
+    margin-top: 26px;
+    margin-bottom: 11px;
+    font-weight: 700;
+    font-size: 1.6rem;
+    text-align: center;
+}
+
+.job-description {
+    margin-top: 0;
+    margin-bottom: 29px;
+    font-weight: 400;
+    font-size: 0.8rem;
+    color: #F3BF99;
+    text-align: center;
+}
+
+.mail-button {
+    text-decoration: none;
+    height: 34px;
+    width: 247px;
+    border: #D1D5DB;
+    background-color: white;
+    color: #374151;
+    border-radius: 6px;
+    font-weight: 500;
+    line-height: 1rem;
+    font-size: 0.9rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}

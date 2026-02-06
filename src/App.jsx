@@ -1,8 +1,18 @@
+import Header from "./components/Header"
+import Info from "./components/Info"
+import Socials from "./components/Socials"
+import "./App.css"
 
 
 function App() {
   return (
-    <h1>It's alive</h1>
+    <div className="page">
+      <div className="content">
+        <Header />
+        <Info  />
+        <Socials />
+      </div>
+    </div>
   )
 }
 
